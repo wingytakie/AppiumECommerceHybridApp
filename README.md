@@ -2,6 +2,9 @@
 
 
 This is an Appium Android Project designed to work with connected phone. 
+Language used: Java
+Program used: Eclipse
+Package used: Selenium, Junit, Appium, TestNG
 
 Chrome Driver and .APK file used is included under src folder.
 
